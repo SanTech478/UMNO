@@ -19,7 +19,7 @@ Physical:
 Electrical:
 * Voltage (DC, V): 7-40;
   
-Electonics:
+Electronics:
 * MCU: STM32F103C8T6;
 * Connection Type: nRF24L01+PA+LNA;
   
